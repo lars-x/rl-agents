@@ -4,6 +4,7 @@
         "type": "MultiLayerPerceptron",
         "layers": [256, 256]
     },
+    "lars": true,
     "double": false,
     "gamma": 0.8,
     "n_steps": 1,
